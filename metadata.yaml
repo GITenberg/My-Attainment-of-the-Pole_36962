@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38561
     wikipedia: http://en.wikipedia.org/wiki/Frederick_Cook
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36962#My-Attainment-of-the-Pole
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2011-08-03'
 gutenberg_type: Text
